@@ -8,7 +8,7 @@ Created on Fri Nov 22 09:30:06 2024
 import streamlit as st
 
 # Configuración de la página de Streamlit
-st.set_page_config(page_title="Convocatoria - Coordinación para el Análisis de Economía Laboral en CONASAMI", layout="wide")
+st.set_page_config(page_title="Análisis de Economía Laboral en CONASAMI", layout="wide")
 
 # Estilo de fondo
 page_bg_img = """
