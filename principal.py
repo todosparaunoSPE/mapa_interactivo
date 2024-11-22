@@ -28,7 +28,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
 # Título principal
-st.title("Convocatoria para el Puesto de Coordinación para el Análisis de Economía Laboral en CONASAMI")
+st.title("Análisis de Economía Laboral en CONASAMI")
 
 
 
